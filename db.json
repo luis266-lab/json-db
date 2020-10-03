@@ -1,25 +1,25 @@
 {
     "cursos":[
         {
-            "key":1,
+            "id":1,
             "title":"React desde Cero",
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
             "price":"50 USD"
         },
         {
-            "key":2,
+            "id":2,
             "title":"HTML desde Cero",
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/26557907-0555-427e-a40c-6ff207f98d72.png",
             "price":"30 USD"
         },
         {
-            "key":3,
+            "id":3,
             "title":"CSS desde Cero",
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
             "price":"15 USD"
         },
         {
-            "key":4,
+            "id":4,
             "title":"CSS Avanzado",
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
             "price":"40 USD"
